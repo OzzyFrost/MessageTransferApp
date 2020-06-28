@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MessageTransferApp</string>
+    <string name="input_name">Input name</string>
+    <string name="input_surname">Input surname</string>
+    <string name="ok">Ok</string>
+    <string name="enter_the_required_information">enter the required information</string>
+</resources>
